@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vina</h1>
-<h3 align="center">A philosophy major turned software developer</h3>
+<h3 align="center">A research industry professional turned software developer</h3>
 
 - 🔭 I’m currently working on [Codex](https://codex-platform.netlify.app/)
 
