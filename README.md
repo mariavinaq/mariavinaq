@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [www.mariavina.com](www.mariavina.com)
 
-- 📫 How to reach me **mariavinaq@gmail.com**
+- 📫 How to reach me **hello@mariavina.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vinaq/](https://www.linkedin.com/in/vinaq/)
 
