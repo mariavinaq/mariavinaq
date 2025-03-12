@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **new projects that solve real-world problems**
 
-- 👨‍💻 Some of my projects are available at [www.mariavina.com](www.mariavina.com)
+- 👨‍💻 Some of my projects are available at [https://www.mariavina.com/](https://www.mariavina.com/)
 
 - 📫 How to reach me **mariavinaq@gmail.com**
 
